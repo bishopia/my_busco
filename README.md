@@ -7,7 +7,7 @@ head over to busco website and find their dockerfile quay url: https://busco.ezl
 ```
 export SINGULARITY_CACHEDIR=~/scratch/.singularity
 export SINGULARITY_TMPDIR=~/scratch/.singularity/tmp
-export SINGULARITY_BINDPATH="/gpfs/scratch/ibishop:/scratch,/gpfs/data/ibishop:/ccv_data"
+export SINGULARITY_BINDPATH="/gpfs/scratch/ibishop:/scratch,/users/ibishop/data/ibishop:/ccv_data":wq
 ```
 
 ## pull dockerfile and save it in somewhere to keep
