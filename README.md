@@ -56,3 +56,4 @@ singularity exec --no-home ~/data/ibishop/busco/busco_5.2.2.sif busco -i $GENOME
 
 
 
+
